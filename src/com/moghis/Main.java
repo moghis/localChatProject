@@ -21,5 +21,6 @@ public class Main {
             process.createUI();
             process.start();
         }
+        System.exit(0);
     }
 }
